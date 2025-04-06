@@ -7,3 +7,4 @@ Gitの練習をしていきます。
 3行目：変更した理由
 
 ・git rm
+・git status
